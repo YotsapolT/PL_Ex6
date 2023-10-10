@@ -1,0 +1,14 @@
+C:\Users\Tong\Documents\2566_01\ProLang\Exercise6\ex6_CSharp\obj\Debug\net7.0\ex6_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tong\Documents\2566_01\ProLang\Exercise6\ex6_CSharp\obj\Debug\net7.0\ex6_CSharp.AssemblyInfoInputs.cache
+C:\Users\Tong\Documents\2566_01\ProLang\Exercise6\ex6_CSharp\obj\Debug\net7.0\ex6_CSharp.AssemblyInfo.cs
+C:\Users\Tong\Documents\2566_01\ProLang\Exercise6\ex6_CSharp\obj\Debug\net7.0\ex6_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Tong\Documents\2566_01\ProLang\Exercise6\ex6_CSharp\bin\Debug\net7.0\ex6_CSharp.exe
+C:\Users\Tong\Documents\2566_01\ProLang\Exercise6\ex6_CSharp\bin\Debug\net7.0\ex6_CSharp.deps.json
+C:\Users\Tong\Documents\2566_01\ProLang\Exercise6\ex6_CSharp\bin\Debug\net7.0\ex6_CSharp.runtimeconfig.json
+C:\Users\Tong\Documents\2566_01\ProLang\Exercise6\ex6_CSharp\bin\Debug\net7.0\ex6_CSharp.dll
+C:\Users\Tong\Documents\2566_01\ProLang\Exercise6\ex6_CSharp\bin\Debug\net7.0\ex6_CSharp.pdb
+C:\Users\Tong\Documents\2566_01\ProLang\Exercise6\ex6_CSharp\obj\Debug\net7.0\ex6_CSharp.dll
+C:\Users\Tong\Documents\2566_01\ProLang\Exercise6\ex6_CSharp\obj\Debug\net7.0\refint\ex6_CSharp.dll
+C:\Users\Tong\Documents\2566_01\ProLang\Exercise6\ex6_CSharp\obj\Debug\net7.0\ex6_CSharp.pdb
+C:\Users\Tong\Documents\2566_01\ProLang\Exercise6\ex6_CSharp\obj\Debug\net7.0\ex6_CSharp.genruntimeconfig.cache
+C:\Users\Tong\Documents\2566_01\ProLang\Exercise6\ex6_CSharp\obj\Debug\net7.0\ref\ex6_CSharp.dll
